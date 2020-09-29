@@ -1,8 +1,11 @@
 .head {
     background: #fc0;
     height: 100px;
-    position: relative;
+    position: absolute;
     width: 100px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .face {
