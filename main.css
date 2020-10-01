@@ -20,8 +20,41 @@
 }
 
 
-/* .face:hover {
-    visibility: hidden;
+/*
+//PRUEBA TAREA 3 (PROBAR DESDE TAREA 3)
+   .face:hover {
+    //visibility: hidden;
     color: red;
     content: ":)";
 } */
+
+
+/*
+//TAREA 3 CON CSS Y CON HTML SIN MODIFICAR (PROBAR DESDE TAREA 3)
+.head {
+    background: #fc0;
+    height: 100px;
+    position: absolute;
+    width: 100px;
+}
+
+.face {
+    font-family: 'courier new', serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    left: 50%;
+    position: absolute;
+    top: 25%;
+    transform: translate(-50%, -60%) rotate(90deg);
+    visibility: hidden;
+}
+
+.face::after {
+    visibility: visible;
+    content: ":|";
+}
+
+.face:hover::after {
+    content: ":)";
+}
+*/
