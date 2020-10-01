@@ -9,7 +9,7 @@
     border-radius: 50%;
 }
 
-.face {
+#face {
     font-family: 'courier new', serif;
     font-size: 2.5em;
     font-weight: bold;
@@ -18,3 +18,10 @@
     top: 50%;
     transform: translate(-50%, -60%) rotate(90deg);
 }
+
+
+/* .face:hover {
+    visibility: hidden;
+    color: red;
+    content: ":)";
+} */
