@@ -1,7 +1,7 @@
 .head {
     background: #fc0;
     height: 100px;
-    position: absolute;
+    position: relative;
     width: 100px;
 }
 
