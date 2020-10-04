@@ -53,4 +53,9 @@
 .face:hover::after {
     content: ":)";
 }
+
+//TAREA 4 CON CSS
+.face:active::after {
+    content: ";)";
+}
 */
