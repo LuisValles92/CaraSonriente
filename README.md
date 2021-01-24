@@ -1,5 +1,5 @@
 # Cara sonriente
-_JavaScript | CSS | Ramificaciones en Git_  
+_HTML | CSS | JavaScript | Ramificaciones en Git_  
 Cuando pasa el cursor por encima de la cara, sonríe y cuando pulsa sobre esta, guiña un ojo.  
 [Enlace](https://luisvalles92.github.io/CaraSonriente) | [Repositorio](https://github.com/LuisValles92/CaraSonriente)
   
